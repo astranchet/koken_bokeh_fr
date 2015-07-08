@@ -414,8 +414,10 @@ nav ul li {
 }
 
 nav a, nav a:visited {
-    font-size:18px;
     color:$color_text;
+    font-size: 1em;
+    text-transform: lowercase;
+    font-style: italic;
 }
 
 nav a:hover, nav a.k-nav-current {
