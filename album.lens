@@ -154,7 +154,7 @@
 
 	<koken:loop>
 
-		<div class="list-image">
+		<div class="item">
 
 			<koken:content_video>
 				<koken:video />
@@ -179,6 +179,8 @@
 			</koken:if>
 
 		</div>
+
+		<koken:asset file="js/grid.js" />
 
 	</koken:loop>
 
