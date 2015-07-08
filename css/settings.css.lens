@@ -377,12 +377,15 @@ header.top {
 }
 
 header.top h1 {
-    font-size:[$site_title_size]px;
+    font-size:2.5em;
     line-height:[$site_title_lh]px;
     text-transform:$site_title_case;
     font-weight:$site_title_weight;
     letter-spacing:[$site_title_ls]px;
     margin:0;
+    font-weight: normal;
+    text-transform: lowercase;
+    padding: 20px;
 }
 
 .site_tagline {
