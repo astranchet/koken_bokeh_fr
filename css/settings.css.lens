@@ -1,7 +1,7 @@
 body {
 	font-size:14px;
 	line-height:1.5; /* 23 */
-	font-family: 'Gentium Basic', serif;
+	font-family: 'Karla', sans-serif;
 	font-weight:normal;
 	background:$color_bg;
 	color:$color_text;
